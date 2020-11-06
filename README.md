@@ -13,4 +13,6 @@ https://git-scm.com/downloads
 - "git commit" // adiciona um ponto na linha do tempo
 - "git log" // visualiza pontos na linha do tempo
 - "git status" // informa o estado das alterações no projeto
-- "git show" // apresenta determinado ponto na historia
+- "git show" // apresenta determinado ponto na historia 
+- "git branch NomeDaBranch // adiciona nova branch (enviar alterações sem mudar o main)
+- "git merge NomeDaBranchASerInserida // une branchs
