@@ -16,3 +16,11 @@ https://git-scm.com/downloads
 - "git show" // apresenta determinado ponto na historia 
 - "git branch NomeDaBranch // adiciona nova branch (enviar alterações sem mudar o main)
 - "git merge NomeDaBranchASerInserida // une branchs
+
+
+# GITHUB
+
+Criar repositório
+Iniciar git na pasta do projeto
+Executar os comandos informados pelo github no terminal local
+Após isso apenas git push
