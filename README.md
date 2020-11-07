@@ -6,7 +6,7 @@ Arquivo feito inspirado no vídeo: https://www.youtube.com/watch?v=2alg7MQ6_sI
 
 https://git-scm.com/downloads
 
-# SCENES
+# COMANDOS
 
 - "git init" // inicia a linha do tempo do repositório
 - "git add" // adiciona ou atualiza mudanças na linha do tempo
