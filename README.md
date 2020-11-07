@@ -1,5 +1,7 @@
 # GIT E GITHUB
 
+
+Este repositório tem a proposta de iniciar minha jornada no GiHub, onde irei aprender e testar novos comandos
 Arquivo feito inspirado no vídeo: https://www.youtube.com/watch?v=2alg7MQ6_sI
 
 ### INSTALAÇÃO
