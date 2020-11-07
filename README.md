@@ -20,7 +20,7 @@ https://git-scm.com/downloads
 
 # GITHUB
 
-Criar repositório
-Iniciar git na pasta do projeto
-Executar os comandos informados pelo github no terminal local
-Após isso apenas git push
+- Criar repositório
+- Iniciar git na pasta do projeto
+- Executar os comandos informados pelo github no terminal local
+- Após isso apenas git push
