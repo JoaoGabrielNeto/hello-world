@@ -16,6 +16,7 @@ https://git-scm.com/downloads
 - "git show" // apresenta determinado ponto na historia 
 - "git branch NomeDaBranch // adiciona nova branch (enviar alterações sem mudar o main)
 - "git merge NomeDaBranchASerInserida // une branchs
+- "git checkout NomeDaBranch" // troca para a branch desejada
 
 
 # GITHUB
